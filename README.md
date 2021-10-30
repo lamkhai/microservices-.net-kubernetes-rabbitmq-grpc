@@ -1,2 +1,6 @@
 # microservices-.net-kubernetes-rabbitmq-grpc
-Using: .NET Core, Kubernetes, RabbitMQ, Grpc
+Using:
+- .NET Core
+- Kubernetes
+- RabbitMQ
+- Grpc
